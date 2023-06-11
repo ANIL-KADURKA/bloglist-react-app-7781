@@ -1,0 +1,30 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  font-family: bree serif;
+}
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image-icon {
+  height: 100px;
+  width: 100px;
+  border-radius: 30px;
+  margin-bottom: 10px;
+}
+.head {
+  font-size: 25px;
+  font-weight: 400;
+  padding: 10px;
+}
+.para {
+  font-size: 17px;
+  font-weight: 300;
+  padding: 10px;
+}
